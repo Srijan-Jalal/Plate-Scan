@@ -82,5 +82,3 @@ Feel free to fork this repository, create a new branch, and submit pull requests
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can paste this directly into your repository's `README.md` file. Let me know if you need further adjustments!
