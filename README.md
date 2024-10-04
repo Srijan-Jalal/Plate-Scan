@@ -1,11 +1,6 @@
-# Plate-Scan
-Great! You can add the following `README.md` file to your GitHub repository at [Plate-Scan](https://github.com/Srijan-Jalal/Plate-Scan):
-
----
-
 # PlateScan
 
-**PlateScan** is a web-based application for detecting vehicle number plates from images using Flask as the backend framework. The system utilizes image processing techniques to accurately recognize and extract number plate information, making it suitable for vehicle identification, security monitoring, and traffic management applications.
+**PlateScan** is a Python application for detecting vehicle number plates from images using Flask as the backend framework. The system utilizes image processing techniques to accurately recognize and extract number plate information, making it suitable for vehicle identification, security monitoring, and traffic management applications.
 
 ## Table of Contents
 - [Features](#features)
